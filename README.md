@@ -6,9 +6,9 @@ This repository contains **Dockerfiles** of Oracle Instant Client on Ubuntu 16.0
 
 ## Supported tags and respective `Dockerfile` links
 
-* `11.2` [(11.2/Dockerfile)](11.2/Dockerfile)
-* `12.1` [(12.1/Dockerfile)](12.1/Dockerfile)
-* `12.2` [(12.2/Dockerfile)](12.2/Dockerfile)
+* `11.2` [(11.2/Dockerfile)](https://github.com/sergeymakinen/docker-oracle-instant-client/blob/master/11.2/Dockerfile)
+* `12.1` [(12.1/Dockerfile)](https://github.com/sergeymakinen/docker-oracle-instant-client/blob/master/12.1/Dockerfile)
+* `12.2` [(12.2/Dockerfile)](https://github.com/sergeymakinen/docker-oracle-instant-client/blob/master/12.2/Dockerfile)
 
 ## What is Oracle Instant Client?
 
